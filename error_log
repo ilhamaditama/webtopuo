@@ -1,555 +1,368 @@
-[02-Dec-2025 11:49:19 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:49:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:49:21 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:49:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:51:56 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:51:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:51:59 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:51:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:01 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:02 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:03 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:05 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:06 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:07 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:08 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:13 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:14 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:15 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:24 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:27 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:32 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:54 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:52:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:53:29 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:53:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:53:30 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 11:53:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:39 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:39 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:40 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:41 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:41 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:42 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:02:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:06:32 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:06:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:06:35 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:06:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:07:23 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:10 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:12 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:16 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:18 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:23 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:12:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:16:55 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:16:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:16:57 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:16:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:16:58 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:16:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:17:32 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:17:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:17:33 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:17:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:17:35 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:17:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:18:06 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:18:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:19:17 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:19:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:20:41 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:20:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:25:20 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:25:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:42:16 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:42:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:42:20 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:42:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:42:43 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:42:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:42:50 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:42:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:43:16 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:43:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:46:02 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:46:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:46:04 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:46:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:46:05 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:46:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:46:06 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:46:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:58:18 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:58:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:58:19 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:58:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:58:22 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 12:58:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:01:19 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:01:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:01:20 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:01:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:35 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:36 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:38 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:40 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:47 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:48 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:50 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:04:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:06:11 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:06:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:07:36 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:07:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:16:26 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:16:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:31:54 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:31:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:31:56 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:31:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:38:30 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:38:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:53:28 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:53:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:53:29 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 13:53:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 14:06:16 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 14:06:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 14:29:16 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 14:29:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 14:29:17 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 14:29:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 14:29:18 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 14:29:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:28:12 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:28:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:28:15 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:28:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:49:21 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:49:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:49:22 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:49:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:49:23 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:49:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:49:23 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:49:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:54:54 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:54:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:54:55 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 15:54:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 16:07:58 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 16:07:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 16:18:10 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 16:18:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:12:43 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:12:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:16:50 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:16:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:29:29 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:29:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:46:24 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:46:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:46:26 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 17:46:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 19:17:17 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[02-Dec-2025 19:17:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 02:27:20 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 02:27:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 02:27:22 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 02:27:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 02:27:23 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 02:27:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 02:58:14 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 02:58:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 03:03:13 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 03:03:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 04:16:21 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 04:16:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 04:25:29 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 04:25:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 04:41:28 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 04:41:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 05:35:30 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 05:35:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 05:48:34 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 05:48:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 05:55:01 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 05:55:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 06:22:05 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 06:22:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 06:22:08 UTC] PHP Warning:  require_once(../config/app.php): Failed to open stream: No such file or directory in /home/minzzsho/public_html/index.php on line 2
-[03-Dec-2025 06:22:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/minzzsho/public_html/index.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/minzzsho/public_html/index.php on line 2
+[02-Dec-2025 19:51:02 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'minzzsho_minzz_shop'@'localhost' (using password: YES) in /home/minzzsho/public_html/config/db.php:8
+Stack trace:
+#0 /home/minzzsho/public_html/config/db.php(8): mysqli->__construct()
+#1 /home/minzzsho/public_html/public/index.php(3): require_once('/home/minzzsho/...')
+#2 {main}
+  thrown in /home/minzzsho/public_html/config/db.php on line 8
+[02-Dec-2025 19:51:08 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'minzzsho_minzz_shop'@'localhost' (using password: YES) in /home/minzzsho/public_html/config/db.php:8
+Stack trace:
+#0 /home/minzzsho/public_html/config/db.php(8): mysqli->__construct()
+#1 /home/minzzsho/public_html/public/index.php(3): require_once('/home/minzzsho/...')
+#2 {main}
+  thrown in /home/minzzsho/public_html/config/db.php on line 8
+[03-Dec-2025 01:27:14 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:28:57 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:29:03 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:30:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:31:29 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:31:32 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:31:33 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:31:36 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:32:30 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:32:56 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:34:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:34:58 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:39:29 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 01:39:40 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:45:51 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:45:54 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:45:56 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:46:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:47:35 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:47:38 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:59:45 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:59:47 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 01:59:49 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 02:02:53 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 02:02:59 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 02:16:53 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 02:16:56 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 02:17:12 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 02:42:53 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 02:42:55 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 02:42:56 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 02:50:18 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 02:50:22 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 03:13:58 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 03:16:23 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 03:16:27 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 03:18:42 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:40
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(40): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 40
+[03-Dec-2025 03:26:28 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 03:26:31 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 10:27:43 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 10:58:44 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:43
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(43): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 43
+[03-Dec-2025 11:03:09 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:51
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(51): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 51
+[03-Dec-2025 11:03:50 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'WHERE' in /home/minzzsho/public_html/public/register.php:51
+Stack trace:
+#0 /home/minzzsho/public_html/public/register.php(51): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/register.php on line 51
+[03-Dec-2025 12:41:42 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'SELECT' in /home/minzzsho/public_html/public/login.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/login.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/login.php on line 34
+[03-Dec-2025 19:57:22 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'created_at' in WHERE is ambiguous in /home/minzzsho/public_html/public/leaderboard.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/leaderboard.php(34): mysqli->query()
+#1 /home/minzzsho/public_html/public/leaderboard.php(45): getLeaderboard()
+#2 {main}
+  thrown in /home/minzzsho/public_html/public/leaderboard.php on line 34
+[03-Dec-2025 19:57:25 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'created_at' in WHERE is ambiguous in /home/minzzsho/public_html/public/leaderboard.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/leaderboard.php(34): mysqli->query()
+#1 /home/minzzsho/public_html/public/leaderboard.php(45): getLeaderboard()
+#2 {main}
+  thrown in /home/minzzsho/public_html/public/leaderboard.php on line 34
+[03-Dec-2025 19:57:47 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'created_at' in WHERE is ambiguous in /home/minzzsho/public_html/public/leaderboard.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/leaderboard.php(34): mysqli->query()
+#1 /home/minzzsho/public_html/public/leaderboard.php(45): getLeaderboard()
+#2 {main}
+  thrown in /home/minzzsho/public_html/public/leaderboard.php on line 34
+[03-Dec-2025 20:13:57 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'created_at' in WHERE is ambiguous in /home/minzzsho/public_html/public/leaderboard.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/leaderboard.php(34): mysqli->query()
+#1 /home/minzzsho/public_html/public/leaderboard.php(45): getLeaderboard()
+#2 {main}
+  thrown in /home/minzzsho/public_html/public/leaderboard.php on line 34
+[03-Dec-2025 20:14:03 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'created_at' in WHERE is ambiguous in /home/minzzsho/public_html/public/leaderboard.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/leaderboard.php(34): mysqli->query()
+#1 /home/minzzsho/public_html/public/leaderboard.php(45): getLeaderboard()
+#2 {main}
+  thrown in /home/minzzsho/public_html/public/leaderboard.php on line 34
+[03-Dec-2025 20:14:04 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'created_at' in WHERE is ambiguous in /home/minzzsho/public_html/public/leaderboard.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/leaderboard.php(34): mysqli->query()
+#1 /home/minzzsho/public_html/public/leaderboard.php(45): getLeaderboard()
+#2 {main}
+  thrown in /home/minzzsho/public_html/public/leaderboard.php on line 34
+[03-Dec-2025 20:14:41 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'created_at' in WHERE is ambiguous in /home/minzzsho/public_html/public/leaderboard.php:34
+Stack trace:
+#0 /home/minzzsho/public_html/public/leaderboard.php(34): mysqli->query()
+#1 /home/minzzsho/public_html/public/leaderboard.php(45): getLeaderboard()
+#2 {main}
+  thrown in /home/minzzsho/public_html/public/leaderboard.php on line 34
+[05-Dec-2025 12:25:48 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'minzzsho_topupgame.orders' doesn't exist in /home/minzzsho/public_html/public/invoice.php:26
+Stack trace:
+#0 /home/minzzsho/public_html/public/invoice.php(26): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/invoice.php on line 26
+[05-Dec-2025 12:25:50 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'minzzsho_topupgame.orders' doesn't exist in /home/minzzsho/public_html/public/invoice.php:26
+Stack trace:
+#0 /home/minzzsho/public_html/public/invoice.php(26): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/invoice.php on line 26
+[05-Dec-2025 13:00:02 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'minzzsho_topupgame.orders' doesn't exist in /home/minzzsho/public_html/public/invoice.php:26
+Stack trace:
+#0 /home/minzzsho/public_html/public/invoice.php(26): mysqli->prepare()
+#1 {main}
+  thrown in /home/minzzsho/public_html/public/invoice.php on line 26
+[06-Dec-2025 05:55:32 Asia/Kuala_Lumpur] PHP Deprecated:  nl2br(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/include/footer.php on line 126
+[06-Dec-2025 05:55:40 Asia/Kuala_Lumpur] PHP Deprecated:  nl2br(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/include/footer.php on line 126
+[06-Dec-2025 11:32:04 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[06-Dec-2025 11:32:06 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[06-Dec-2025 11:32:07 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[06-Dec-2025 07:51:15 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:16 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:16 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:17 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:18 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:19 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:21 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:25 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:26 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:51:32 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:02 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:06 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:07 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:07 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:08 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:10 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:12 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:14 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:16 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:17 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:22 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:23 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:24 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:24 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:52:25 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:54:54 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:54:55 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:54:56 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:56:18 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:56:19 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:56:21 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:56:22 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:56:23 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:56:24 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:56:28 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[06-Dec-2025 07:56:29 UTC] PHP Parse error:  syntax error, unexpected identifier "publisher", expecting "]" in /home/minzzsho/public_html/public/index.php on line 36
+[08-Dec-2025 04:33:02 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected identifier "instagram" in /home/minzzsho/public_html/include/footer.php on line 7
+[08-Dec-2025 04:33:03 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected identifier "instagram" in /home/minzzsho/public_html/include/footer.php on line 7
+[08-Dec-2025 04:33:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected identifier "instagram" in /home/minzzsho/public_html/include/footer.php on line 7
+[08-Dec-2025 04:33:16 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected identifier "instagram" in /home/minzzsho/public_html/include/footer.php on line 7
+[08-Dec-2025 04:33:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected identifier "instagram" in /home/minzzsho/public_html/include/footer.php on line 7
+[08-Dec-2025 04:34:04 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected identifier "instagram" in /home/minzzsho/public_html/include/footer.php on line 7
+[08-Dec-2025 15:58:38 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[08-Dec-2025 19:47:32 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[09-Dec-2025 19:16:28 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[09-Dec-2025 22:00:23 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[09-Dec-2025 22:01:10 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[09-Dec-2025 22:01:55 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[09-Dec-2025 22:25:24 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[09-Dec-2025 22:39:51 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[10-Dec-2025 21:49:32 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[10-Dec-2025 22:03:39 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:16:29 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:16:33 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:17:28 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:27:06 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:27:40 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:31:51 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:32:05 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:39:20 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[11-Dec-2025 15:39:25 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[12-Dec-2025 20:20:58 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[14-Dec-2025 20:53:26 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[14-Dec-2025 20:53:27 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[14-Dec-2025 20:53:28 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[14-Dec-2025 20:53:30 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[14-Dec-2025 20:53:31 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[14-Dec-2025 21:09:04 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[14-Dec-2025 21:09:52 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[19-Dec-2025 07:00:31 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[20-Dec-2025 06:38:47 Asia/Kuala_Lumpur] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/minzzsho/public_html/public/dashboard.php on line 437
+[28-Dec-2025 20:04:45 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare is_hex_color() (previously declared in /home/laogames/public_html/public/index.php:10) in /home/laogames/public_html/include/footer.php on line 8
+[28-Dec-2025 20:04:49 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare is_hex_color() (previously declared in /home/laogames/public_html/public/index.php:10) in /home/laogames/public_html/include/footer.php on line 8
+[28-Dec-2025 20:04:58 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare is_hex_color() (previously declared in /home/laogames/public_html/public/index.php:10) in /home/laogames/public_html/include/footer.php on line 8
